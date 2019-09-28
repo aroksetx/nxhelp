@@ -7,5 +7,24 @@
     "tslint.json": "*",
     "nx.json": "*"
   },
-  "projects": {}
+  "projects": {
+    "myapp": {
+      "tags": []
+    },
+    "myapp-e2e": {
+      "tags": []
+    },
+    "api-api": {
+      "tags": []
+    },
+    "api-nest-api-nest": {
+      "tags": []
+    },
+    ".-api-nest": {
+      "tags": []
+    },
+    ".-api": {
+      "tags": []
+    }
+  }
 }
